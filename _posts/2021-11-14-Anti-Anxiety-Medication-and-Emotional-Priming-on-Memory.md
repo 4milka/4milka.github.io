@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: Effects of Anti-Anxiety Medication on Memory Recall
+subtitle: Research by Malik Yusuf
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [books, test]
+tags: [python]
 ---
 The memory impairing side effects of Benzodiazepines, a.k.a. anti-anxiety medications, have long been studied within the research literature. This is especially true when considering the long-term use of these drugs. Here is a study testing these effects from kaggle.com. The experiment was conducted on two different drugs in comparison with a sugar pill as a placebo. Participants were all adult-aged, 25 years old or older, to ensure the study tested people with fully developed pre-frontal cortices, a brain region responsible for higher-level cognition and memory recall. This allows us to be confident that we used a normal sample to test for memory differences.
 
